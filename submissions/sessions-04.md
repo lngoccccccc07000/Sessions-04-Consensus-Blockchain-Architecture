@@ -88,7 +88,9 @@ Output:
 Bài 3:
 <img width="1906" height="916" alt="image" src="https://github.com/user-attachments/assets/9c6323e9-3c10-476b-bc05-4775cc1f554a" />
 -Tên dự án:Base Chain
+
 -Loại công nghệ:Optimistic Rollup
+
 -Layer 1:Etherum
         
 ## 4. Evidence
