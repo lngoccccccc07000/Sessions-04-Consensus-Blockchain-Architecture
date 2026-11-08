@@ -80,7 +80,8 @@ Số xác nhận:1 xác nhận
 Input:bc1q5mqy8a6d3wjwh9ghxunernnmpqu454qq4e4ac
 
 Output: 
-         + bc1qtcfxnfphx359kmsqxzeqyup6meqeh3gh8jf
+
+        + bc1qtcfxnfphx359kmsqxzeqyup6meqeh3gh8jf
 
         + bc1q5mqy8a6d3wjwh9ghxunernnmpqu454qq4e
         
