@@ -53,6 +53,7 @@
 
 -Tình huống: hệ thống cấp bằng đại học
 Các trường đại học muốn cấp và thu hồi bằng trên blockchain. Kiến trúc đề xuất gồm ba bước:
+
          +Các trường lập liên minh.
          
          +Liên minh vận hành một blockchain cấp phép để cấp và thu hồi bằng.
