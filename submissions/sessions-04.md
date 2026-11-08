@@ -51,7 +51,7 @@
 -Các mô hình triển khai blockchain và sự khác biệt giữa chúng:
 <img width="982" height="516" alt="image" src="https://github.com/user-attachments/assets/29d7f275-8a22-4d44-bda6-643f9d5a3fdc" />
 
--Tình huống: hệ thống cấp bằng đại học
+-Tình huống: hệ thống cấp bằng đại học.
 Các trường đại học muốn cấp và thu hồi bằng trên blockchain. Kiến trúc đề xuất gồm ba bước:
 
          +Các trường lập liên minh.
