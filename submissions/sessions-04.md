@@ -62,11 +62,27 @@ Các trường đại học muốn cấp và thu hồi bằng trên blockchain. 
 
 
 ## 3. Work completed
+Bài 1:
 <img width="1919" height="639" alt="image" src="https://github.com/user-attachments/assets/8b57a211-9ee5-4b3c-9fe8-35a5d0fbb6e9" />
 <img width="1917" height="498" alt="image" src="https://github.com/user-attachments/assets/0c364e82-c788-41e2-88eb-f36f6be36830" />
 
 -Mã Hash của Block 1 thay đổi khiến cho mã Hash của Block 2 và Block 3 không còn khớp nữa từ đó làm hỏng toàn bộ  liên kết của các chuỗi phía sau. Đây chính là minh họa cho tính bất biến và cơ chế bảo mật của blockchain.
 
+Bài 2:
+<img width="1891" height="904" alt="image" src="https://github.com/user-attachments/assets/def9bfbd-0b21-487f-bbd5-c432ae71c99c" />
+<img width="1497" height="313" alt="image" src="https://github.com/user-attachments/assets/c84b5867-fdb0-4db1-adf4-23ffe94a33ec" />
+
+
+Mã giao dịch :6ff0fbfffcb337b33149186eb7d2c63fbe6d5de4e878a0f6ebdda685915550af
+
+Số xác nhận:1 xác nhận
+
+Input:bc1q5mqy8a6d3wjwh9ghxunernnmpqu454qq4e4ac
+
+Output: + bc1qtcfxnfphx359kmsqxzeqyup6meqeh3gh8jf
+
+        + bc1q5mqy8a6d3wjwh9ghxunernnmpqu454qq4e
+        
 ## 4. Evidence
 không có
 ## 5. Blockers
