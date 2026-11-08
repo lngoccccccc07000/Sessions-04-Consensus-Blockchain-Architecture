@@ -65,7 +65,7 @@ Các trường đại học muốn cấp và thu hồi bằng trên blockchain. 
 <img width="1919" height="639" alt="image" src="https://github.com/user-attachments/assets/8b57a211-9ee5-4b3c-9fe8-35a5d0fbb6e9" />
 <img width="1917" height="498" alt="image" src="https://github.com/user-attachments/assets/0c364e82-c788-41e2-88eb-f36f6be36830" />
 
--Mã Hash của Block 1 thay đổi khiến cho mã Hash của Block 2 và Block 3 không còn khớp nữa và làm hỏng liên kết của toàn bộ chuỗi phía sau. Đây chính là minh họa cho tính bất biến và cơ chế bảo mật của blockchain.
+-Mã Hash của Block 1 thay đổi khiến cho mã Hash của Block 2 và Block 3 không còn khớp nữa từ đó làm hỏng toàn bộ  liên kết của các chuỗi phía sau. Đây chính là minh họa cho tính bất biến và cơ chế bảo mật của blockchain.
 
 ## 4. Evidence
 không có
