@@ -39,7 +39,7 @@
 
 <img width="978" height="362" alt="image" src="https://github.com/user-attachments/assets/5631cd84-0848-407c-be2e-26aa0261f82e" />
 
--Blockchain trilemma:
+-Vai trò của từng Layer 1,2:
 <img width="982" height="303" alt="image" src="https://github.com/user-attachments/assets/340897c4-0267-44fb-b659-0cd94bd53a4b" />
 
 -Layer 1 là đường cao tốc chính, còn Layer 2 là đường gom: xử lý bớt lượng xe rồi đưa kết quả nhập về cao tốc.
@@ -51,16 +51,13 @@
 -Các mô hình triển khai blockchain và sự khác biệt giữa chúng:
 <img width="982" height="516" alt="image" src="https://github.com/user-attachments/assets/29d7f275-8a22-4d44-bda6-643f9d5a3fdc" />
 
-
-
-
-
-
-
-
-
-
-
+-Tình huống: hệ thống cấp bằng đại học
+Các trường đại học muốn cấp và thu hồi bằng trên blockchain. Kiến trúc đề xuất gồm ba bước:
+         +Các trường lập liên minh.
+         
+         +Liên minh vận hành một blockchain cấp phép để cấp và thu hồi bằng.
+         
+         +Định kỳ neo giá trị Merkle Root của dữ liệu lên blockchain công khai.
 
 
 ## 3. Work completed
