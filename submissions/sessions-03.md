@@ -77,6 +77,14 @@
 -So sánh ví lưu lý và tự lưu ký
 <img width="793" height="376" alt="image" src="https://github.com/user-attachments/assets/ebbc3384-9e45-4d5d-8006-3cc8d86dee83" />
 
+-6 nguyên tắc bảo mật ví cơ bản:
+
+    + Không chia sẻ cụm từ khôi phục với bất kỳ ai, dưới bất kỳ hình thức nào.
+    +Sao lưu cụm từ khôi phục ngoại tuyến (giấy, tấm kim loại), không chụp ảnh hay lưu trên cloud.
+    +Kiểm tra kỹ địa chỉ nhận trước khi gửi, đặc biệt các ký tự đầu và cuối.
+    +Dùng ví phần cứng cho tài sản giá trị lớn.
+    +Cảnh giác lừa đảo: website giả, tin nhắn tự xưng hỗ trợ, airdrop lạ.
+    +Gửi thử một giao dịch nhỏ trước khi chuyển số tiền lớn.
 
            
 
